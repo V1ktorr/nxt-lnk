@@ -1,3 +1,3 @@
 # Personal link-tree like space
 
-**For of realvjy template**
+**Fork of realvjy template**
